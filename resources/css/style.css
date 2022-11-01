@@ -22,6 +22,12 @@ body {
     color: gray;
 }
 
+.header--forth {
+    font-weight: 300;
+    font-size: 42px;
+    color: #ffffff;
+}
+
 .link--cta {
     font-weight: normal;
     font-size: 16px;
